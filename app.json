@@ -1,0 +1,22 @@
+{
+	"id": "236df09a-e46b-40c2-a717-c068ba93b7c4",
+	"name": "fornav",
+	"publisher": "Kmbugua",
+	"brief": "",
+	"description": "",
+	"version": "6.0.0.2068",
+	"privacyStatement": "",
+	"EULA": "",
+	"help": "",
+	"url": "",
+	"logo": "",
+	"dependencies": [
+		{ "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f", "publisher": "Microsoft", "name": "System Application", "version": "16.0.0.0" },
+		{ "id": "437dbf0e-84ff-417a-965d-ed2bb9650972", "publisher": "Microsoft", "name": "Base Application", "version": "16.0.0.0" }
+	],
+	"screenshots": [],
+	"showMyCode": true,
+	"target": "Internal",
+	"platform": "16.0.0.0",
+	"runtime": "5.0"
+}
